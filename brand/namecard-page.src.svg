@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg5144"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="namecard-page.src.svg">
+  <defs
+     id="defs5146">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3422">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3424"
+         d="M -10.629921,936.36216 -10.629921,1040.3622 73.370079,1040.3622 A 12,52 0 0 0 85.370079,988.36216 12,52 0 0 0 73.370079,936.36216 L -10.629921,936.36216 Z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5174">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5176" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5178" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur5180" />
+      <feOffset
+         dx="4"
+         dy="4"
+         result="offset"
+         id="feOffset5182" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5184" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3422-7">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3424-8"
+         d="M -10.629921,936.36216 -10.629921,1040.3622 73.370079,1040.3622 A 12,52 0 0 0 85.370079,988.36216 12,52 0 0 0 73.370079,936.36216 L -10.629921,936.36216 Z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5174-7">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5176-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5178-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur5180-3" />
+      <feOffset
+         dx="4"
+         dy="4"
+         result="offset"
+         id="feOffset5182-3" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5184-0" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3422-71">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3424-9"
+         d="M -10.629921,936.36216 -10.629921,1040.3622 73.370079,1040.3622 A 12,52 0 0 0 85.370079,988.36216 12,52 0 0 0 73.370079,936.36216 L -10.629921,936.36216 Z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5174-1">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5176-1" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5178-5" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur5180-5" />
+      <feOffset
+         dx="4"
+         dy="4"
+         result="offset"
+         id="feOffset5182-9" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5184-5" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4959">
+      <stop
+         style="stop-color:#2fcfcc;stop-opacity:1"
+         offset="0"
+         id="stop4961" />
+      <stop
+         style="stop-color:#782fcf;stop-opacity:1"
+         offset="1"
+         id="stop4963" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3422-4">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3424-7"
+         d="M -10.629921,936.36216 -10.629921,1040.3622 73.370079,1040.3622 A 12,52 0 0 0 85.370079,988.36216 12,52 0 0 0 73.370079,936.36216 L -10.629921,936.36216 Z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5174-9">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5176-8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5178-9" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur5180-2" />
+      <feOffset
+         dx="4"
+         dy="4"
+         result="offset"
+         id="feOffset5182-1" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5184-1" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient5382"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)" />
+    <clipPath
+       id="clipPath5087"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="12.545969"
+         cy="528.63202"
+         cx="154.7314"
+         id="circle5089"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient5491"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient5873"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient5875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient5953"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient5955"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient6033"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient6035"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient6113"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4959"
+       id="linearGradient6115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.57,0,0,1.57,-36.48,-563.36644)"
+       x1="40"
+       y1="964.36218"
+       x2="88"
+       y2="1012.3622" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="636.27735"
+     inkscape:cy="771.11742"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5149">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(50.229743,-839.1588)"
+       id="layer1-2"
+       inkscape:label="Layer 1">
+      <g
+         id="g4902"
+         transform="translate(107.05006,396.89664)">
+        <g
+           inkscape:label="Layer 1"
+           id="layer1-06"
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5206"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5382);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        </g>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4098"
+           y="608.008"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1"
+             y="608.008"
+             x="-80.732124"
+             id="tspan4100"
+             sodipodi:role="line">Scalethat</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="629.26801"
+           id="text4928"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4930"
+             x="-80.732124"
+             y="629.26801"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">scalethat.net</tspan></text>
+      </g>
+      <g
+         transform="translate(107.25909,363.92066)"
+         id="g5076">
+        <text
+           sodipodi:linespacing="100%"
+           id="text4908"
+           y="564.89734"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end"
+             y="564.89734"
+             x="167.34857"
+             id="tspan4910"
+             sodipodi:role="line">Ambrose Chua</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="586.15735"
+           id="text4916"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4918"
+             x="167.34857"
+             y="586.15735"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">@serverwentdown</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text4920"
+           y="607.41736"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="607.41736"
+             x="167.34857"
+             id="tspan4922"
+             sodipodi:role="line">ambrose@scalethat.net</tspan></text>
+        <image
+           width="25.091938"
+           height="25.091938"
+           preserveAspectRatio="none"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           id="image5067"
+           x="142.18544"
+           y="516.08606"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           clip-path="url(#clipPath5087)"
+           transform="translate(0,3.5433071)" />
+      </g>
+    </g>
+    <g
+       inkscape:label="Layer 1"
+       id="g5457"
+       transform="translate(393.08688,-839.1588)">
+      <g
+         transform="translate(107.05006,396.89664)"
+         id="g5459">
+        <g
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)"
+           id="g5461"
+           inkscape:label="Layer 1">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5491);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             id="path5463"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="608.008"
+           id="text5465"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5467"
+             x="-80.732124"
+             y="608.008"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1">Scalethat</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5469"
+           y="629.26801"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+             y="629.26801"
+             x="-80.732124"
+             id="tspan5471"
+             sodipodi:role="line">scalethat.net</tspan></text>
+      </g>
+      <g
+         id="g5473"
+         transform="translate(107.25909,363.92066)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="564.89734"
+           id="text5475"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5477"
+             x="167.34857"
+             y="564.89734"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end">Ambrose Chua</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5479"
+           y="586.15735"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="586.15735"
+             x="167.34857"
+             id="tspan5481"
+             sodipodi:role="line">@serverwentdown</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="607.41736"
+           id="text5483"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5485"
+             x="167.34857"
+             y="607.41736"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">ambrose@scalethat.net</tspan></text>
+        <image
+           transform="translate(0,3.5433071)"
+           clip-path="url(#clipPath5087)"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           y="516.08606"
+           x="142.18544"
+           id="image5487"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           preserveAspectRatio="none"
+           height="25.091938"
+           width="25.091938" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 50.201621,17.613187 50.201621,8.4526529"
+       id="path5781"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5783"
+       d="M 351.38272,17.613187 351.38272,7.4425003"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 393.11326,17.613187 393.11326,7.1899622"
+       id="path5785"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5787"
+       d="M 694.29434,17.613187 694.29434,7.1899622"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 46.61746,213.19784 30.932107,213.19784"
+       id="path5789"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 45.8101,18.372115 36.970814,18.372115"
+       id="path5791"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5793"
+       d="M 713.16238,213.19784 697.47702,213.19784"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5795"
+       d="M 709.73935,18.372115 700.90006,18.372115"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       inkscape:label="Layer 1"
+       id="g5799"
+       transform="translate(50.229743,-635.60529)">
+      <g
+         transform="translate(107.05006,396.89664)"
+         id="g5801">
+        <g
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)"
+           id="g5803"
+           inkscape:label="Layer 1">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5873);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             id="path5805"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="608.008"
+           id="text5807"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5809"
+             x="-80.732124"
+             y="608.008"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1">Scalethat</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5811"
+           y="629.26801"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+             y="629.26801"
+             x="-80.732124"
+             id="tspan5813"
+             sodipodi:role="line">scalethat.net</tspan></text>
+      </g>
+      <g
+         id="g5815"
+         transform="translate(107.25909,363.92066)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="564.89734"
+           id="text5817"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5819"
+             x="167.34857"
+             y="564.89734"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end">Ambrose Chua</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5821"
+           y="586.15735"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="586.15735"
+             x="167.34857"
+             id="tspan5823"
+             sodipodi:role="line">@serverwentdown</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="607.41736"
+           id="text5825"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5827"
+             x="167.34857"
+             y="607.41736"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">ambrose@scalethat.net</tspan></text>
+        <image
+           transform="translate(0,3.5433071)"
+           clip-path="url(#clipPath5087)"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           y="516.08606"
+           x="142.18544"
+           id="image5829"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           preserveAspectRatio="none"
+           height="25.091938"
+           width="25.091938" />
+      </g>
+    </g>
+    <g
+       transform="translate(393.08688,-635.60529)"
+       id="g5833"
+       inkscape:label="Layer 1">
+      <g
+         id="g5835"
+         transform="translate(107.05006,396.89664)">
+        <g
+           inkscape:label="Layer 1"
+           id="g5837"
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5839"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5875);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        </g>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5841"
+           y="608.008"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1"
+             y="608.008"
+             x="-80.732124"
+             id="tspan5843"
+             sodipodi:role="line">Scalethat</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="629.26801"
+           id="text5845"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5847"
+             x="-80.732124"
+             y="629.26801"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">scalethat.net</tspan></text>
+      </g>
+      <g
+         transform="translate(107.25909,363.92066)"
+         id="g5849">
+        <text
+           sodipodi:linespacing="100%"
+           id="text5851"
+           y="564.89734"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end"
+             y="564.89734"
+             x="167.34857"
+             id="tspan5853"
+             sodipodi:role="line">Ambrose Chua</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="586.15735"
+           id="text5855"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5857"
+             x="167.34857"
+             y="586.15735"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">@serverwentdown</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5859"
+           y="607.41736"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="607.41736"
+             x="167.34857"
+             id="tspan5861"
+             sodipodi:role="line">ambrose@scalethat.net</tspan></text>
+        <image
+           width="25.091938"
+           height="25.091938"
+           preserveAspectRatio="none"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           id="image5863"
+           x="142.18544"
+           y="516.08606"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           clip-path="url(#clipPath5087)"
+           transform="translate(0,3.5433071)" />
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5865"
+       d="M 46.61746,416.75135 30.932107,416.75135"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5867"
+       d="M 45.8101,221.92563 36.970814,221.92563"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 713.16238,416.75135 697.47702,416.75135"
+       id="path5869"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 709.73935,221.92563 700.90006,221.92563"
+       id="path5871"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(50.229743,-432.51781)"
+       id="g5879"
+       inkscape:label="Layer 1">
+      <g
+         id="g5881"
+         transform="translate(107.05006,396.89664)">
+        <g
+           inkscape:label="Layer 1"
+           id="g5883"
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5885"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5953);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        </g>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5887"
+           y="608.008"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1"
+             y="608.008"
+             x="-80.732124"
+             id="tspan5889"
+             sodipodi:role="line">Scalethat</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="629.26801"
+           id="text5891"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5893"
+             x="-80.732124"
+             y="629.26801"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">scalethat.net</tspan></text>
+      </g>
+      <g
+         transform="translate(107.25909,363.92066)"
+         id="g5895">
+        <text
+           sodipodi:linespacing="100%"
+           id="text5897"
+           y="564.89734"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end"
+             y="564.89734"
+             x="167.34857"
+             id="tspan5899"
+             sodipodi:role="line">Ambrose Chua</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="586.15735"
+           id="text5901"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5903"
+             x="167.34857"
+             y="586.15735"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">@serverwentdown</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5905"
+           y="607.41736"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="607.41736"
+             x="167.34857"
+             id="tspan5907"
+             sodipodi:role="line">ambrose@scalethat.net</tspan></text>
+        <image
+           width="25.091938"
+           height="25.091938"
+           preserveAspectRatio="none"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           id="image5909"
+           x="142.18544"
+           y="516.08606"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           clip-path="url(#clipPath5087)"
+           transform="translate(0,3.5433071)" />
+      </g>
+    </g>
+    <g
+       inkscape:label="Layer 1"
+       id="g5913"
+       transform="translate(393.08688,-432.51781)">
+      <g
+         transform="translate(107.05006,396.89664)"
+         id="g5915">
+        <g
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)"
+           id="g5917"
+           inkscape:label="Layer 1">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5955);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             id="path5919"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="608.008"
+           id="text5921"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5923"
+             x="-80.732124"
+             y="608.008"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1">Scalethat</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5925"
+           y="629.26801"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+             y="629.26801"
+             x="-80.732124"
+             id="tspan5927"
+             sodipodi:role="line">scalethat.net</tspan></text>
+      </g>
+      <g
+         id="g5929"
+         transform="translate(107.25909,363.92066)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="564.89734"
+           id="text5931"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5933"
+             x="167.34857"
+             y="564.89734"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end">Ambrose Chua</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5935"
+           y="586.15735"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="586.15735"
+             x="167.34857"
+             id="tspan5937"
+             sodipodi:role="line">@serverwentdown</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="607.41736"
+           id="text5939"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5941"
+             x="167.34857"
+             y="607.41736"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">ambrose@scalethat.net</tspan></text>
+        <image
+           transform="translate(0,3.5433071)"
+           clip-path="url(#clipPath5087)"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           y="516.08606"
+           x="142.18544"
+           id="image5943"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           preserveAspectRatio="none"
+           height="25.091938"
+           width="25.091938" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 46.61746,619.83883 30.932107,619.83883"
+       id="path5945"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 45.8101,425.01311 36.970814,425.01311"
+       id="path5947"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5949"
+       d="M 713.16238,619.83883 697.47702,619.83883"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5951"
+       d="M 709.73935,425.01311 700.90006,425.01311"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       inkscape:label="Layer 1"
+       id="g5959"
+       transform="translate(50.229743,-228.9643)">
+      <g
+         transform="translate(107.05006,396.89664)"
+         id="g5961">
+        <g
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)"
+           id="g5963"
+           inkscape:label="Layer 1">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient6033);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             id="path5965"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="608.008"
+           id="text5967"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5969"
+             x="-80.732124"
+             y="608.008"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1">Scalethat</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5971"
+           y="629.26801"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+             y="629.26801"
+             x="-80.732124"
+             id="tspan5973"
+             sodipodi:role="line">scalethat.net</tspan></text>
+      </g>
+      <g
+         id="g5975"
+         transform="translate(107.25909,363.92066)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="564.89734"
+           id="text5977"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5979"
+             x="167.34857"
+             y="564.89734"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end">Ambrose Chua</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text5981"
+           y="586.15735"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="586.15735"
+             x="167.34857"
+             id="tspan5983"
+             sodipodi:role="line">@serverwentdown</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="607.41736"
+           id="text5985"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5987"
+             x="167.34857"
+             y="607.41736"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">ambrose@scalethat.net</tspan></text>
+        <image
+           transform="translate(0,3.5433071)"
+           clip-path="url(#clipPath5087)"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           y="516.08606"
+           x="142.18544"
+           id="image5989"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           preserveAspectRatio="none"
+           height="25.091938"
+           width="25.091938" />
+      </g>
+    </g>
+    <g
+       transform="translate(393.08688,-228.9643)"
+       id="g5993"
+       inkscape:label="Layer 1">
+      <g
+         id="g5995"
+         transform="translate(107.05006,396.89664)">
+        <g
+           inkscape:label="Layer 1"
+           id="g5997"
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5999"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient6035);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        </g>
+        <text
+           sodipodi:linespacing="100%"
+           id="text6001"
+           y="608.008"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1"
+             y="608.008"
+             x="-80.732124"
+             id="tspan6003"
+             sodipodi:role="line">Scalethat</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="629.26801"
+           id="text6005"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan6007"
+             x="-80.732124"
+             y="629.26801"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">scalethat.net</tspan></text>
+      </g>
+      <g
+         transform="translate(107.25909,363.92066)"
+         id="g6009">
+        <text
+           sodipodi:linespacing="100%"
+           id="text6011"
+           y="564.89734"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end"
+             y="564.89734"
+             x="167.34857"
+             id="tspan6013"
+             sodipodi:role="line">Ambrose Chua</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="586.15735"
+           id="text6015"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan6017"
+             x="167.34857"
+             y="586.15735"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">@serverwentdown</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text6019"
+           y="607.41736"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="607.41736"
+             x="167.34857"
+             id="tspan6021"
+             sodipodi:role="line">ambrose@scalethat.net</tspan></text>
+        <image
+           width="25.091938"
+           height="25.091938"
+           preserveAspectRatio="none"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           id="image6023"
+           x="142.18544"
+           y="516.08606"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           clip-path="url(#clipPath5087)"
+           transform="translate(0,3.5433071)" />
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6025"
+       d="M 46.61746,823.39234 30.932107,823.39234"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6027"
+       d="M 45.8101,628.56662 36.970814,628.56662"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 713.16238,823.39234 697.47702,823.39234"
+       id="path6029"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 709.73935,628.56662 700.90006,628.56662"
+       id="path6031"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(50.229743,-23.421582)"
+       id="g6039"
+       inkscape:label="Layer 1">
+      <g
+         id="g6041"
+         transform="translate(107.05006,396.89664)">
+        <g
+           inkscape:label="Layer 1"
+           id="g6043"
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path6045"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient6113);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        </g>
+        <text
+           sodipodi:linespacing="100%"
+           id="text6047"
+           y="608.008"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1"
+             y="608.008"
+             x="-80.732124"
+             id="tspan6049"
+             sodipodi:role="line">Scalethat</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="629.26801"
+           id="text6051"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan6053"
+             x="-80.732124"
+             y="629.26801"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">scalethat.net</tspan></text>
+      </g>
+      <g
+         transform="translate(107.25909,363.92066)"
+         id="g6055">
+        <text
+           sodipodi:linespacing="100%"
+           id="text6057"
+           y="564.89734"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end"
+             y="564.89734"
+             x="167.34857"
+             id="tspan6059"
+             sodipodi:role="line">Ambrose Chua</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="586.15735"
+           id="text6061"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan6063"
+             x="167.34857"
+             y="586.15735"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">@serverwentdown</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text6065"
+           y="607.41736"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="607.41736"
+             x="167.34857"
+             id="tspan6067"
+             sodipodi:role="line">ambrose@scalethat.net</tspan></text>
+        <image
+           width="25.091938"
+           height="25.091938"
+           preserveAspectRatio="none"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           id="image6069"
+           x="142.18544"
+           y="516.08606"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           clip-path="url(#clipPath5087)"
+           transform="translate(0,3.5433071)" />
+      </g>
+    </g>
+    <g
+       inkscape:label="Layer 1"
+       id="g6073"
+       transform="translate(393.08688,-23.421582)">
+      <g
+         transform="translate(107.05006,396.89664)"
+         id="g6075">
+        <g
+           transform="matrix(0.46564702,0,0,0.46564702,-85.04529,93.877756)"
+           id="g6077"
+           inkscape:label="Layer 1">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient6115);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="M 108.40191,943.69452 A 12.561256,12.561256 0 0 0 97.913958,940.27516 L 46.243926,940.27516 A 12.561256,12.561256 0 1 0 46.241758,965.39464 L 69.208145,965.39464 19.600142,1015.0028 A 12.561256,12.561256 0 1 0 37.362665,1032.7653 L 86.970667,983.15716 86.970667,1006.1235 A 12.561256,12.561256 0 1 0 112.09015,1006.1214 L 112.09015,954.3993 A 12.561256,12.561256 0 0 0 108.40191,943.69452 Z"
+             id="path6079"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6065ce;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-80.732124"
+           y="608.008"
+           id="text6081"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan6083"
+             x="-80.732124"
+             y="608.008"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:start;text-anchor:start;fill:#6065ce;fill-opacity:1">Scalethat</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text6085"
+           y="629.26801"
+           x="-80.732124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+             y="629.26801"
+             x="-80.732124"
+             id="tspan6087"
+             sodipodi:role="line">scalethat.net</tspan></text>
+      </g>
+      <g
+         id="g6089"
+         transform="translate(107.25909,363.92066)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="564.89734"
+           id="text6091"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan6093"
+             x="167.34857"
+             y="564.89734"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI Bold';text-align:end;text-anchor:end">Ambrose Chua</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text6095"
+           y="586.15735"
+           x="167.34857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end"
+             y="586.15735"
+             x="167.34857"
+             id="tspan6097"
+             sodipodi:role="line">@serverwentdown</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="167.34857"
+           y="607.41736"
+           id="text6099"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan6101"
+             x="167.34857"
+             y="607.41736"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Inter UI';-inkscape-font-specification:'Inter UI';text-align:end;text-anchor:end">ambrose@scalethat.net</tspan></text>
+        <image
+           transform="translate(0,3.5433071)"
+           clip-path="url(#clipPath5087)"
+           sodipodi:absref="/Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           y="516.08606"
+           x="142.18544"
+           id="image6103"
+           xlink:href="file:///Users/ambrose/Documents/graphics/profile/profile.512.jpg"
+           preserveAspectRatio="none"
+           height="25.091938"
+           width="25.091938" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 46.61746,1028.935 30.932107,1028.935"
+       id="path6105"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 45.8101,834.10933 36.970814,834.10933"
+       id="path6107"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6109"
+       d="M 713.16238,1028.935 697.47702,1028.935"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6111"
+       d="M 709.73935,834.10933 700.90006,834.10933"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6117"
+       d="M 50.201621,1045.1722 50.201621,1036.0116"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 351.38272,1045.1722 351.38272,1035.0015"
+       id="path6119"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6121"
+       d="M 393.11326,1045.1722 393.11326,1034.749"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 694.29434,1045.1722 694.29434,1034.749"
+       id="path6123"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

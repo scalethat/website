@@ -1,0 +1,3 @@
+Main: #6065ce
+Gradient Stop 1: #2fcfcc
+Gradient Stop 2: #782fcf

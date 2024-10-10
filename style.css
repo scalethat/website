@@ -1,0 +1,33 @@
+html {
+	font-family: "Inter UI", sans-serif;
+}
+
+body {
+	margin: 3em;
+	text-align: center;
+}
+
+footer {
+	font-size: 0.8em;
+}
+
+a:link {
+	color: #6065ce;
+}
+a:active {
+	color: #6065ce;
+}
+a:visited {
+	color: #6065ce;
+}
+
+/* calculator */
+
+section {
+	margin: 0.5em;
+}
+
+input[type=range] {
+	width: 100px;
+	margin: 0.5em;
+}

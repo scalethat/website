@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Scalethat - Pricing Calculator</title>
+<meta name="viewport" content="width=device-width">
+<link rel="icon" href="/brand/icon.64.png">
+<link rel="stylesheet" href="//rsms.me/inter/inter-ui.css">
+<link rel="stylesheet" href="/style.css">
+
+<h1>Calculator</h1>
+<noscript>
+	<p>Requires JavaScript. Alternatively, <a href="mailto:ambrose@scalethat.net">email us</a>.</p>
+</noscript>
+<form action="#" method="get">
+	<p>Find out how much it <em>might</em> cost to build your simple website:</p>
+	<section>
+		<label for="pages">Number of page layouts</label><br>
+		<input type="range" data-custom-list="pageCounts" id="pages">
+		<datalist id="pageCounts">
+			<option value="314" label="1-3">
+			<option value="1024" label="3-6">
+			<!--<option value="6400" label="20-100">-->
+		</datalist>
+	</section>
+
+	<section>
+		<label for="design">Design style</label><br>
+		<input type="range" data-custom-list="designLevel" id="design">
+		<datalist id="designLevel">
+			<option value="0.15" label="<a title='Really depends on the content you have. But the look is similar.' href='https://scalethat.net'>Concise</a>">
+			<option value="128" label="<a title='A link to an example' href='https://buildingblocs.github.io/2018/'>Minimal and colourful</a>">
+			<option value="512" label="Your design into code">
+			<option value="1024" label="Fancy graphics setting">
+			<option value="2048" label="Bold. Epic. Classy.">
+		</datalist>
+	</section>
+
+	<section>
+		<label for="data">Data source</label><br>
+		<input type="range" data-custom-list="dataCounts" id="data">
+		<datalist id="dataCounts">
+			<option value="0" label="No database">
+			<option value="128" label="From APIs, without database">
+			<option value="512" label="1-2 tables">
+		</datalist>
+	</section>
+
+	<section>
+		<label for="forms">Data manipulation</label><br>
+		<input type="range" data-custom-list="formType" id="forms">
+		<datalist id="formType">
+			<option value="0" label="Admin has to manage database">
+			<option value="1024" label="1-3 data entry/modification forms">
+			<option value="2048" label="3-6 data entry/modification forms">
+		</datalist>
+	</section>
+
+	<section>
+		<label for="auth">Authentication</label><br>
+		<input type="range" data-custom-list="authType" id="auth">
+		<datalist id="authType">
+			<option value="0" label="No authentication">
+			<option value="512" label="Connect to existing OpenID Connect">
+			<option value="1024" label="OpenID Connect with simple policy">
+			<option value="1024" label="Connect to existing OAuth server">
+			<option value="1024" label="Username and password database">
+		</datalist>
+	</section>
+	
+	<section>
+		<label for="support">Support</label><br>
+		<input type="range" data-custom-list="supportDuration" id="support">
+		<datalist id="supportDuration">
+			<option value="0" label="1 month of support">
+			<option value="256" label="1 year of support">
+			<option value="512" label="2 years">
+			<option value="768" label="3 years">
+		</datalist>
+	</section>
+	
+	<section>
+		<label for="hosting">Hosting</label><br>
+		<input type="range" data-custom-list="hostingSize" data-monthly="true" id="hosting">
+		<datalist id="hostingSize">
+			<option value="0" label="Self-hosted">
+			<option value="24" label="Host for you, no database or uploads">
+			<option value="32" label="Hosted, 70GB of storage">
+			<option value="64" label="Hosted, 150GB of storage">
+			<option value="128" label="Hosted, 300GB of storage">
+			<option value="256" label="Hosted, 600GB of storage">
+		</datalist>
+	</section>
+
+	<section>
+		<p id="total">One-time cost</p>
+		<p id="monthly">Monthly cost</p>
+	</section>
+
+	<section>
+		<p>Ready? <a href="#" onclick="drift.api.openChat(); return false">Drop a message</a> or an <a href="mailto:ambrose@scalethat.net">email</a>.</p>
+		<small><p>This calculator only provides a prediction as to how much we would charge you, and we can't guarantee that there will be no change in pricing. We will try our best to stick to this pricing though. </p></small>
+	</section>
+</form>
+<footer>
+	<p>&copy; 2018 Scalethat Pte. Ltd. (ACRA: 201801750N)</p>
+</footer>
+
+<script src="datalist-polyfill.min.js"></script>
+<script>
+	var p = document.querySelector("#total");
+	p.dataset.baseLabel = p.innerHTML;
+	var q = document.querySelector("#monthly");
+	q.dataset.baseLabel = q.innerHTML;
+	function update() {
+		var total = 0;
+		var monthly = 0;
+		for (var i = 0; i < ranges.length; i++) {
+			var range = ranges[i];
+			var options = document.querySelector("#" + range.dataset.customList).options;
+			if (range.value >= options.length) { // If range.value hasn't been updated yet
+				range.value = 0;
+			}
+
+			if (range.dataset.monthly) {
+				monthly += parseFloat(options[range.value].value);
+				continue;
+			}
+			total += parseFloat(options[range.value].value);
+		}
+
+		var p = document.querySelector("#total");
+		p.innerHTML = "<strong>" + p.dataset.baseLabel + "</strong>: " + total + " SGD";
+		var q = document.querySelector("#monthly");
+		q.innerHTML = "<strong>" + q.dataset.baseLabel + "</strong>: " + monthly + " SGD";
+	}
+		
+	function input(e) {
+		var range = e.target;
+		var label = document.querySelector("label[for=" + range.id + "]");
+		var options = document.querySelector("#" + range.dataset.customList).options;
+		// Placeholder site uses placeholder code
+		label.innerHTML = "<strong>" + label.dataset.baseLabel + "</strong>: " + options[range.value].label + " <small>(" + options[range.value].value + ")</small>";
+
+		update();
+	}
+
+	var ranges = document.querySelectorAll("[data-custom-list]");
+	for (var i = 0; i < ranges.length; i++) {
+		var range = ranges[i];
+		var label = document.querySelector("label[for=" + range.id + "]");
+		var options = document.querySelector("#" + range.dataset.customList).options;
+		range.min = 0;
+		range.value = 0;
+		range.max = options.length - 1;
+		var baseLabel = label.innerHTML;
+		label.dataset.baseLabel = baseLabel;
+		
+		input({ target: range });
+		range.addEventListener("input", input);
+	}
+</script>
+
+<!-- Start of Async Drift Code -->
+<script>
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0, 
+  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, i;
+    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"), 
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js", 
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('4e93dvkipgf8');
+</script>
+<!-- End of Async Drift Code -->
