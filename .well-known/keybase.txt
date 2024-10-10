@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/serverwentdown
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://scalethat.net
+  * I am serverwentdown (https://keybase.io/serverwentdown) on keybase.
+  * I have a public key ASDxKOZ8oj3ekjFWGTbTIhV06DGuH6QxENiu78BrIJP83Qo
+
+To do so, I am signing this object:
+
+{
+  \"body\": {
+    \"key\": {
+      \"eldest_kid\": \"010110430dc2d28545bb5b330e2b43dc37d70bf292bf0d4c42ae371abfd77cf3a5d50a\",
+      \"host\": \"keybase.io\",
+      \"kid\": \"0120f128e67ca23dde9231561936d3221574e831ae1fa43110d8aeefc06b2093fcdd0a\",
+      \"uid\": \"5988f6406deb07af36048fd30cd94519\",
+      \"username\": \"serverwentdown\"
+    },
+    \"merkle_root\": {
+      \"ctime\": 1522649067,
+      \"hash\": \"7dbe28528c62939ef3670c5cd6d96833750a7cebceb9d4e313b1bbe302151248481f6e8b2cfbbffc779e76184fe0c282056c59e1366845d0eb839136685d7693\",
+      \"hash_meta\": \"92ec86caa2ef1012e1c7cc5f60d7891ba63fc8c61eccda451a2cef1318436394\",
+      \"seqno\": 2321474
+    },
+    \"service\": {
+      \"hostname\": \"scalethat.net\",
+      \"protocol\": \"https:\"
+    },
+    \"type\": \"web_service_binding\",
+    \"version\": 1
+  },
+  \"client\": {
+    \"name\": \"keybase.io go client\",
+    \"version\": \"1.0.45\"
+  },
+  \"ctime\": 1522649071,
+  \"expire_in\": 504576000,
+  \"prev\": \"753feb509520fc8dd1b3c7c7543cccef06be097e4015edeeaa1310305303fc10\",
+  \"seqno\": 38,
+  \"tag\": \"signature\"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8SjmfKI93pIxVhk20yIVdOgxrh+kMRDYru/AayCT/N0Kp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTA0MzBkYzJkMjg1NDViYjViMzMwZTJiNDNkYzM3ZDcwYmYyOTJiZjBkNGM0MmFlMzcxYWJmZDc3Y2YzYTVkNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjEyOGU2N2NhMjNkZGU5MjMxNTYxOTM2ZDMyMjE1NzRlODMxYWUxZmE0MzExMGQ4YWVlZmMwNmIyMDkzZmNkZDBhIiwidWlkIjoiNTk4OGY2NDA2ZGViMDdhZjM2MDQ4ZmQzMGNkOTQ1MTkiLCJ1c2VybmFtZSI6InNlcnZlcndlbnRkb3duIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIyNjQ5MDY3LCJoYXNoIjoiN2RiZTI4NTI4YzYyOTM5ZWYzNjcwYzVjZDZkOTY4MzM3NTBhN2NlYmNlYjlkNGUzMTNiMWJiZTMwMjE1MTI0ODQ4MWY2ZThiMmNmYmJmZmM3NzllNzYxODRmZTBjMjgyMDU2YzU5ZTEzNjY4NDVkMGViODM5MTM2Njg1ZDc2OTMiLCJoYXNoX21ldGEiOiI5MmVjODZjYWEyZWYxMDEyZTFjN2NjNWY2MGQ3ODkxYmE2M2ZjOGM2MWVjY2RhNDUxYTJjZWYxMzE4NDM2Mzk0Iiwic2Vxbm8iOjIzMjE0NzR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2NhbGV0aGF0Lm5ldCIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIyNjQ5MDcxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6Ijc1M2ZlYjUwOTUyMGZjOGRkMWIzYzdjNzU0M2NjY2VmMDZiZTA5N2U0MDE1ZWRlZWFhMTMxMDMwNTMwM2ZjMTAiLCJzZXFubyI6MzgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA+WFRw7ZD8I1vw8QYGzRXmOOXrnWwdD6obfuuoIbBUI+nHoZYcf6/c+1qxvubU5iYOvshELSgr0EYKu2OvAThCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJZ+U3MQCfnDfSu9CcVlNHguCRsjiId6MsHJ0wU3mSg+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/serverwentdown
+
+==================================================================
